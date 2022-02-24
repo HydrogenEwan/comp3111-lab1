@@ -1,2 +1,1 @@
-name: HUANG Chenliang
-id: 20735728
+HUANG Chenliang 20735728
